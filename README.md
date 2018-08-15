@@ -1,7 +1,7 @@
 # Visual-Tactile_Dataset
 A novel visual-tactile dataset for robotic manipulation
 ***********************************************************
-* Name:       Eagle Shoal Dataset
+* Name:       Visual Tactile dataset built by Intel's Eagle Shoal robot hand
 * Author:     Tsinghua University and Intel Labs China
 * Date:       2018/08/14
 * License:    Community Data License Agreement – Permissive – Version 1.0
