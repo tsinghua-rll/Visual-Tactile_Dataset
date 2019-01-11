@@ -5,6 +5,7 @@ A novel visual-tactile dataset for robotic manipulation
 * Author:     Tsinghua University and Intel Labs China
 * Date:       2018/08/14
 * License:    Community Data License Agreement – Permissive – Version 1.0
+* Paper:       Wang, T., Yang, C., Kirchner, F., Du, P., Sun, F., & Fang, B. (2019). Multimodal grasp data set: A novel visual–tactile data set for robotic manipulation. International Journal of Advanced Robotic Systems. https://doi.org/10.1177/1729881418821571
 ***********************************************************
 There are three file types in the Eagle Shoal Dataset. They
 are .txt, .jpg and .mp4, respectively.
